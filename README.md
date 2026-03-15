@@ -36,7 +36,7 @@ According to the thesis design, the project includes a dedicated database constr
   - **Configuration A**: structural representation only
   - **Configuration B**: structure + electronic-structure descriptors + polymer-scale priors
   - **Configuration C**: Configuration B + 7 custom proxy descriptors
-- Conducted residual analysis, long-tail sample analysis, and SHAP-based interpretation to explain model behavior and feature importance. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+- Conducted residual analysis, long-tail sample analysis, and SHAP-based interpretation to explain model behavior and feature importance. 
 
 ---
 
@@ -50,7 +50,7 @@ The dataset was constructed from published journal articles through a human-mach
 4. digital reconstruction and standardization of polymer repeat units
 5. data cleaning, consistency checking, and structured storage
 
-Polymer repeat units are represented as **SMILES**, and the target variable is the **maximum field-effect mobility** reported in the literature for each material. Two prediction tasks are defined accordingly: hole mobility and electron mobility. The thesis also reports a final curated dataset with **983 records**, including **826 valid samples for hole mobility** and **625 valid samples for electron mobility**. :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+Polymer repeat units are represented as **SMILES**, and the target variable is the **maximum field-effect mobility** reported in the literature for each material. Two prediction tasks are defined accordingly: hole mobility and electron mobility. The thesis also reports a final curated dataset with **983 records**, including **826 valid samples for hole mobility** and **625 valid samples for electron mobility**. 
 
 > **Note**
 > The dataset included in this repository may be a processed/reorganized version for reproducibility. Please refer to the original thesis for the full curation protocol and data-screening criteria.
