@@ -16,7 +16,7 @@ Charge transport in organic conductive polymers is jointly affected by molecular
 - progressive feature fusion for improved prediction in small-data settings
 - interpretability analysis for understanding key factors behind mobility variation
 
-According to the thesis design, the project includes a dedicated database construction workflow, a unified mobility prediction benchmark, and an interpretation stage based on residual analysis and SHAP. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+According to the thesis design, the project includes a dedicated database construction workflow, a unified mobility prediction benchmark, and an interpretation stage based on residual analysis and SHAP.
 
 ---
 
